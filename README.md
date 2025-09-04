@@ -21,11 +21,3 @@ replace error-prone manual processes.
 4. 
 ```bash
    java Main
-
-   
-
- 
-
-
-
-
