@@ -18,6 +18,6 @@ replace error-prone manual processes.
 2. Compile all Java files:
     ```bash
    javac *.java
-4. 
+3. Run: 
 ```bash
    java Main
