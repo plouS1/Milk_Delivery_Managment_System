@@ -15,3 +15,17 @@ replace error-prone manual processes.
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOURUSERNAME/Milk-Delivery-Management-System.git
+2. Compile all Java files:
+    ```bash
+   javac *.java
+4. 
+```bash
+   java Main
+
+   
+
+ 
+
+
+
+
